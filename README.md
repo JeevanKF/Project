@@ -55,6 +55,14 @@ Goal: Detect early degradation and prevent critical machine failure.
 - TensorFlow / Keras
 
 ---
+## How to Run
+
+1. Clone the repository  
+2. Install dependencies:
+   pip install -r requirements.txt  
+3. Run the notebook
+
+---
 
 ## Key Highlights
 
